@@ -34,7 +34,7 @@ To build and evaluate several classification models to predict the forest cover 
 
 ## Project Structure
 - `Forest_Cover_Type_Classification.ipynb`: Main notebook containing all the code
-- `covtype.data.gz`: Dataset downloaded from UCI
+- `covtype.csv`: Dataset downloaded from UCI
 
 ## How to Run
 1. Download the notebook and the dataset.
