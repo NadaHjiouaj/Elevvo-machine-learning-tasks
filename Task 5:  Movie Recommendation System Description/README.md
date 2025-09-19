@@ -76,6 +76,3 @@ The notebook includes visualizations and metrics to evaluate the performance of 
 - Implement deep learning-based recommenders (e.g., neural collaborative filtering)
 - Deploy as a web app using Flask or Streamlit
 
-
-
-Let me know if you'd like to add a GitHub repo link, badges, or a more detailed model explanation!
